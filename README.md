@@ -29,3 +29,14 @@ A Python-based GUI tool that analyzes AWS CloudTrail logs, detects suspicious ac
 ## Build EXE
 ```bash
 python -m PyInstaller --onefile --windowed gui_analyzer.py
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Alerts
+![Alerts](screenshots/alerts.png)
+
+### Graph
+![Graph](screenshots/graph.png)
