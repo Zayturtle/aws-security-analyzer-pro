@@ -1,0 +1,11 @@
+AWS LOG ANALYSIS REPORT
+
+Failed Logins: 0
+Suspicious Events: 0
+
+Top IPs:
+resource-explorer-2.amazonaws.com: 640
+128.172.35.27: 68
+128.172.245.17: 13
+cloudtrail.amazonaws.com: 5
+kraken.amazonaws.com: 3
